@@ -5,11 +5,11 @@ const Header = () => {
   return (
     <header className="py-8">
       <div className="container mx-auto">
-        <div className="flex justify-between items-center">
+        <div className="flex justfiy-between items-center">
           <a href="#s">
             <img src={Logo} alt="logo" />
           </a>
-          <button className="btn btn-sm duration-500">Work with me!</button>
+          <button className="btn btn-sm">Work with me!</button>
         </div>
       </div>
     </header>

@@ -3,13 +3,12 @@ import Logo from "../assets/logo.svg";
 
 const Header = () => {
   return (
-    <header className="py-8">
+    <header className="bg-pink-300 py-8">
       <div className="container mx-auto">
-        <div className="flex justify-between items-center">
+        <div>
           <a href="#s">
             <img src={Logo} alt="logo" />
           </a>
-          <button className="btn btn-sm duration-500">Work with me!</button>
         </div>
       </div>
     </header>

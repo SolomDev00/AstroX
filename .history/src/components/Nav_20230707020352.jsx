@@ -12,7 +12,6 @@ const Nav = () => {
             to="home"
             spy={true}
             smooth={true}
-            offset={-200}
             activeClass="active"
             className="cursor-pointer w-[60px] h-[60px] flex justify-center items-center"
           >

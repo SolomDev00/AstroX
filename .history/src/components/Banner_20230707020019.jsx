@@ -3,7 +3,7 @@ import React from "react";
 const Banner = () => {
   return (
     <div id="home" className="section">
-      {/* 18 */}
+      Banner
     </div>
   );
 };
