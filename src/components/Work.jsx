@@ -38,7 +38,7 @@ const Work = () => {
                 <span className="text-gradient ">UI/UX Design</span>
               </div>
               <div className="absolute bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-3x1 text-white">Niceort</span>
+                <span className="text-3x1 text-white">luna</span>
               </div>
             </div>
           </motion.div>
@@ -60,7 +60,7 @@ const Work = () => {
                 <span className="text-gradient ">UI/UX Design</span>
               </div>
               <div className="absolute bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-3x1 text-white">Niceort</span>
+                <span className="text-3x1 text-white">AstroX</span>
               </div>
             </div>
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
